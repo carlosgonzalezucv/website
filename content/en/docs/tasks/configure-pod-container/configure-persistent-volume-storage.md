@@ -160,7 +160,7 @@ The output shows that the PersistentVolumeClaim is bound to your PersistentVolum
 `task-pv-volume`.
 
     NAME            STATUS    VOLUME           CAPACITY   ACCESSMODES   STORAGECLASS   AGE
-    task-pv-claim   Bound     task-pv-volume   10Gi       RWO           manual         30s
+    task-pv-claim   Bound     task-pv-volume   3Gi       RWO           manual         30s
 
 ## Create a Pod
 
